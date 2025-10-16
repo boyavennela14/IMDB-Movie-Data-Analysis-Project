@@ -1,4 +1,4 @@
-🎬 IMDb Movie Data Analysis Project
+##🎬 IMDb Movie Data Analysis Project##
 📘 Project Overview
 
 This project explores and analyzes the IMDb movie dataset to uncover key insights that can guide RSVP Movies in planning their next production.
